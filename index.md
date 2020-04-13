@@ -5,7 +5,7 @@ title: 个人主页
 
 My name is **Taihua Shao**. I am a first-year PhD student at the *National University of Defense Technology (NUDT)*, Changsha, China, with a major on Information System.
 
-<img src="shao.jpg" width="30%" height="30%">
+<!-- <img src="shao.jpg" width="30%" height="30%"> -->
 
 During the master's period, my research topic mainly focuses on *natural language processing (NLP)* and *information retrieval (IR)*. I have conducted research on *question-answering (QA)*, or more specifically, answer selection in QA. My recent research interest involves *Question Answering*, *Dialogue System* as well as *Conversational Recommendation*.
 
