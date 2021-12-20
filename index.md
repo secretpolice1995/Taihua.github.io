@@ -14,7 +14,7 @@ During the master's period, my research topic mainly focuses on *natural languag
 ### - EDUCATION
 
 **1. National University of Defense Technology**  
-Changsha, China, Mar. 2020 – Now
+Changsha, China, Mar. 2020 – Present
 
 - _Doctor of Engineering_
 - **Major:** Management Science and Engineering
@@ -67,7 +67,7 @@ A full list of my publications can be found on my Google Scholar homepage [here]
 4. **Taihua Shao**, Fei Cai, Honghui Chen, Maarten de Rijke: Length-adaptive Neural Network for Answer Selection[C]. SIGIR 2019
 5. **Taihua Shao**, Yupu Guo, Honghui Chen, et al. Transformer-Based Neural Network for Answer Selection in Question Answering[J]. IEEE Access (2019)
 6. **Taihua Shao**, Xiaoyan Kui, Pengfei Zhang, et al. Collaborative Learning for Answer Selection in Question Answering[J]. IEEE Access (2018) 
-7. **Taihua Shao**, Honghui Chen, Wanyu Chen. Query Auto-Completion Based on Word2Vec Semantic Similarity[C]. CMVIT (2018) 
+7. **Taihua Shao**, Honghui Chen, Wanyu Chen. Query Auto-Completion Based on Word2Vec Semantic Similarity[C]. CMVIT 2018
 
 ( *: Corresponding Author )
 
